@@ -1,0 +1,56 @@
+body{
+	background-color:#E7E7E7;
+}
+.kutu{
+	width:350px;
+	height:245px;
+	background-color:#E7E7E7;
+	padding-top: 10px;
+	border: 2px solid #c10100;
+	border-radius:15px;
+	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    font-size: 15px;
+	position: relative;
+	float:left;
+	margin-left:50px;
+	left:230px;
+	top:150px;
+
+}
+
+.baslik{
+	font-weight:bold;
+	color: #c10100;
+	font-size: 16px;
+	padding-left: 35px;
+	
+}
+
+.btn {
+    background-color: #c10100;
+    border: 2px solid white;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 8px 30px;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 83px;
+	margin-right: 85px;
+}
+.btn:hover {
+	background-color:#8A1B1D;
+	border-color: white;
+	color: white;
+	border-radius:8px;
+}
+.btn:active {
+	background-color:#fcfcfc;
+	color:#a51e23;
+	border-radius:8px;
+}
